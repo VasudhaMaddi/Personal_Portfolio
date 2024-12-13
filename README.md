@@ -1,2 +1,2 @@
-# my-first
-My First Repository
+# Personal-portfolio
+My Portfolio
